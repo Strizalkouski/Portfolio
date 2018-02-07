@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "index" # the subpath of your site, e.g. /blog/
-url: "https://strizalkouski.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://strizalkouski.github.io/index" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
