@@ -8,7 +8,7 @@ feature-img: "img/sunsetFlorida.jpg"
 
 
 
-My name is Mark Strizalkouski.  I am a 27 year old who transitioned from the world of low voltage electric - i.e. Fiber, CAT Cable, Security, Fire, etc.  I have had a hand in wiring jobs such as Amalie Arena, Tropicana Field, and Raymond James Stadium as well as all of the John Deere Nortrax sites in Quebec Canada after they aquired Sigma.  Development has always been something I wanted to do, so the transition was only a matter of time.  
+My name is Mark Strizalkouski.  I am a 27 year old who transitioned from the world of low voltage electric - i.e. Fiber, CAT Cable, Security, Fire, etc.  I have been a project manager wiring jobs such as Amalie Arena, Tropicana Field, and Raymond James Stadium as well as all of the John Deere Nortrax sites in Quebec Canada after they aquired Sigma.  Development has always been something I wanted to do, so the transition was only a matter of time.  
 
 In my free time I enjoy spending time with my family, playing with my two dogs, and playing with tech or video games.  I am originally from Pennsylvania, just outside of the Wilkes-Barre/Scranton area.  I relocated to Florida in 2015 after marrying my wife to move on to better weather and oppurtunities.  
 
