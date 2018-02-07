@@ -4,12 +4,14 @@ title: Contact
 permalink: /contact/
 feature-img: "img/color.png"
 ---
+<img style="top:100px;align-content:center;" src="/img/contact-us.png">
+If you would like to contact me regarding employment, please feel free to message me!
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
-
-<form action="https://getsimpleform.com/messages?form_api_token=_yourtoken_" method="post">
+<!-- #1 -->
+<form action="https://getsimpleform.com/messages?form_api_token=1d00c4e4962d11601bbfa8dd6f2f798a" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='http://bloc.github.io/portfolio-iro/thank-you/' />
+  <!-- #2 -->
+  <input type='hidden' name='redirect_to' value='https://strizalkouski.github.io/thank-you/' />
   <input type='text' name='name' placeholder='Your Full Name' />
   <input type='email' name='email' placeholder='Your E-mail Address' />
   <textarea name='message' placeholder='Write your message ...'></textarea>
